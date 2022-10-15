@@ -1,4 +1,5 @@
 {
+  {
     "name": ["Middle", "Palace Alley"],
     "weapon": "weapon_molotov",
     "position": [139.70625305176, -441.12103271484, -167.10604858398],
@@ -210,3 +211,4 @@
       "jump": true
     }
   }
+}
